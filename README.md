@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dilder601/dilder601/output/snake.svg" alt="Snake animation" />
+
 
 ###
